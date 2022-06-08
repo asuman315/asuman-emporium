@@ -323,6 +323,21 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
+"@netlify/hydrogen-platform@^0.0.2":
+  "integrity" "sha512-gE4z6z7i+LKO8xZ9RqaXZaSWBQItzrrBPF8XL5duRQr55dQYDMZnXPhXM0YQB1u0WrB3MTLs3jpNSU74aI3XGA=="
+  "resolved" "https://registry.npmjs.org/@netlify/hydrogen-platform/-/hydrogen-platform-0.0.2.tgz"
+  "version" "0.0.2"
+  dependencies:
+    "@netlify/vite-plugin-netlify-edge" "^0.0.1"
+    "magic-string" "^0.26.1"
+
+"@netlify/vite-plugin-netlify-edge@^0.0.1":
+  "integrity" "sha512-eJIoDr4sb6VN8Gt4waxPn23Wq2ocLMwxDKQru9f3fcSdCn4ufOW+V50AwO0hDqhUN+xJXqtAnfuPbacDbzh/Fg=="
+  "resolved" "https://registry.npmjs.org/@netlify/vite-plugin-netlify-edge/-/vite-plugin-netlify-edge-0.0.1.tgz"
+  "version" "0.0.1"
+  dependencies:
+    "fast-glob" "^3.2.11"
+
 "@nodelib/fs.scandir@2.1.5":
   "integrity" "sha512-vq24Bq3ym5HEQm2NKCr3yXDwjc7vTsEThRDnkp2DK9p1uqLR+DHurm/NOTo0KG7HYHU7eppKZj3MyqYuMBf62g=="
   "resolved" "https://registry.npmjs.org/@nodelib/fs.scandir/-/fs.scandir-2.1.5.tgz"
